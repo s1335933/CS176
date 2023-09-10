@@ -8,7 +8,7 @@ public class HelloWorld {
 		//Aidan Moxham 
 		
 		//helloWorld
-		System.out.println("Hello World my name is Aidan Moxham");
+		System.out.println("Hello World");
 		
 		
 	}
